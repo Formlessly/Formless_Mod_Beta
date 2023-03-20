@@ -9,4 +9,4 @@ This is a Skyblock Mod That is under development, it is currently in beta and ac
 You may redistribute the mod as the license states.
 
 
-THE MOD IS BUILT ON TOP OF SBE AND AUTOGG SO THE CREDIT GOES TO THEM
+THE MOD IS BUILT ON TOP OF DIFFERENT MODS
